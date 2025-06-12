@@ -44,7 +44,6 @@ requirements.txt - зависимости
 
 ## Используемые технологии
 
-- flask
 - Flask
 - Flask-SQLAlchemy
 - Flask-Login
